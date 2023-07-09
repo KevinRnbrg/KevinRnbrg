@@ -1,5 +1,5 @@
 - Hi, my name is Kevin Rosenberg!
-- I’m currently learning Computer Science at Tallinn University
+- I’m currently studying Computer Science at Tallinn University
 
 <!---
 KevinRnbrg/KevinRnbrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
